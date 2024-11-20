@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Audio-Book-flask-project/.idea/Audio-Book-flask-project.iml" filepath="$PROJECT_DIR$/../Audio-Book-flask-project/.idea/Audio-Book-flask-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WebProject.iml" filepath="$PROJECT_DIR$/.idea/WebProject.iml" />
     </modules>
   </component>
